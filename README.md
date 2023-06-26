@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Read article about the project 
+
+https://javascript.plainenglish.io/contentful-cms-with-react-nextjs-ed46273a7bdb
+
 ## Getting Started
 
 First, run the development server:
